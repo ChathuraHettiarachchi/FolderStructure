@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FolderStructure</string>
+    <string name="API_URL">base url here/</string>
+    <string name="APP_TOKEN">api token or key</string>
+</resources>

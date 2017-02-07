@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="simple-item-decoration-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.bignerdranch.android/simple-item-decoration/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.bignerdranch.android/simple-item-decoration/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bignerdranch.android/simple-item-decoration/1.0.0/d5cfcfe8994c40c8b8c81b3da9462d1f27a21c70/simple-item-decoration-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
